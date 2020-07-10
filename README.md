@@ -11,5 +11,5 @@
 - #### 🛠 **DevOps** (Digital Ocean, Hashicorp Vault)
 - #### 📈 **Exchanges** (Binance, Kraken, Liquid, Bitstamp Bigone, Crex24, Bitbay, Poloniex, Huobi, Hitbtc, Kucoin,Okex, Zb, Cex)  
 
-- #### 👀 [**Show All**]()
+- #### 👀 [**Show All**](https://github.com/Dkdaniz/Dkdaniz)
 

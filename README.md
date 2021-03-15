@@ -8,7 +8,7 @@
 - #### 🔑 **Smart Contracts** (Solidity)
 - #### 💾 **Backend** (Nodejs, C#, C++ and Java)
 - #### 🎨 **Frontend** (Javascript, ReactJS, React Native)
-- #### 🛠 **DevOps** (Digital Ocean, Hashicorp Vault)
+- #### 🛠 **DevOps** (Digital Ocean, Hashicorp Vault, Google Cloud)
 - #### 📈 **Exchanges** (Binance, Kraken, Liquid, Bitstamp Bigone, Crex24, Bitbay, Poloniex, Huobi, Hitbtc, Kucoin,Okex, Zb, Cex)  
 
 - #### 👀 [**Show All**](https://github.com/Dkdaniz/Dkdaniz)

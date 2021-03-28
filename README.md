@@ -6,7 +6,7 @@
 
 - #### 🔒 **Blockchain** (Bitcoin, Ethereum, Litecoin and HyperLedger)
 - #### 🔑 **Smart Contracts** (Solidity)
-- #### 💾 **Backend** (Nodejs, C#, C++ and Java)
+- #### 💾 **Backend** (Nodejs, C#, C++, Java and Go)
 - #### 🎨 **Frontend** (Javascript, ReactJS, React Native)
 - #### 🛠 **DevOps** (Digital Ocean, Hashicorp Vault, Google Cloud)
 - #### 📈 **Exchanges** (Binance, Kraken, Liquid, Bitstamp Bigone, Crex24, Bitbay, Poloniex, Huobi, Hitbtc, Kucoin,Okex, Zb, Cex)  

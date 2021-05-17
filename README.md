@@ -9,7 +9,10 @@
 - #### 💾 **Backend** (Nodejs, C#, C++, Java and Go)
 - #### 🎨 **Frontend** (Javascript, ReactJS, React Native)
 - #### 🛠 **DevOps** (Digital Ocean, Hashicorp Vault, Google Cloud)
-- #### 📈 **Exchanges** (Binance, Kraken, Liquid, Bitstamp Bigone, Crex24, Bitbay, Poloniex, Huobi, Hitbtc, Kucoin,Okex, Zb, Cex)  
+
+- ### **Bots**
+- #### 📈 **Exchanges** (Binance, Kraken, Liquid, Bitstamp Bigone, Crex24, Bitbay, Poloniex, Huobi, Hitbtc, Kucoin,Okex, Zb, Cex) 
+- #### 👟 **Sneaker** (Artwalk, Nike, Adidas) 
 
 - #### 👀 [**Show All**](https://github.com/Dkdaniz/Dkdaniz)
 

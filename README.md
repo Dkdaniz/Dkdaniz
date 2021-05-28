@@ -8,7 +8,7 @@
 - #### 🔑 **Smart Contracts** (Solidity)
 - #### 💾 **Backend** (Nodejs, C#, C++, Java and Go)
 - #### 🎨 **Frontend** (Javascript, ReactJS, React Native)
-- #### 🛠 **DevOps** (Digital Ocean, Hashicorp Vault, Google Cloud)
+- #### 🛠 **DevOps** (Actions Github, Digital Ocean, Hashicorp Vault, Google Cloud)
 
 - ### **Bots**
 - #### 📈 **Exchanges** (Binance, Kraken, Liquid, Bitstamp Bigone, Crex24, Bitbay, Poloniex, Huobi, Hitbtc, Kucoin,Okex, Zb, Cex) 

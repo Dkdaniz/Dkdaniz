@@ -8,6 +8,7 @@
 - #### 🔑 **Smart Contracts** (Solidity)
 - #### 💾 **Backend** (Nodejs, C#, C++, Java and Go)
 - #### 🎨 **Frontend** (Javascript, ReactJS, React Native)
+- #### 🎨 **Mobile Native** (Android - Android Studio)
 - #### 🛠 **DevOps** (Actions Github, Digital Ocean, Hashicorp Vault, Google Cloud)
 
 - ### **Bots**

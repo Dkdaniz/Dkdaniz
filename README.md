@@ -11,7 +11,7 @@
 - #### 🎨 **Mobile Native** (Android - Android Studio,  React Native)
 - #### 🛠 **DevOps** (Actions Github, Digital Ocean, Hashicorp Vault, Google Cloud)
 
-### 🦾 **Bot**
+### 🦾 **Automations**
 - #### 📈 **Exchanges** (Binance, Kraken, Liquid, Bitstamp Bigone, Crex24, Bitbay, Poloniex, Huobi, Hitbtc, Kucoin,Okex, Zb, Cex) 
 - #### 👟 **Sneaker** (Artwalk, Nike, Adidas) 
 

@@ -9,8 +9,9 @@
 - #### 💾 **Backend** (Nodejs, C#, C++, Java and Go)
 - #### 🎨 **Frontend** (Javascript, ReactJS, Electron)
 - #### 🎨 **Mobile Native** (Android - Android Studio,  React Native)
+- #### 🎨 **Design** (Figma)
 - #### 🛠 **DevOps** (Actions Github, Digital Ocean, Hashicorp Vault, Google Cloud)
-- #### 🛠 **Libs** (Ethers, HardHat, Alchemy)
+- #### 🛠 **Packages and Libraries** (Ethers, HardHat, Alchemy)
 
 ### 🦾 **Automations**
 - #### 📈 **Exchanges** (Binance, Kraken, Liquid, Bitstamp Bigone, Crex24, Bitbay, Poloniex, Huobi, Hitbtc, Kucoin,Okex, Zb, Cex) 

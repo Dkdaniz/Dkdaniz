@@ -17,5 +17,3 @@
 - #### 📈 **Exchanges** (Binance, Kraken, Liquid, Bitstamp Bigone, Crex24, Bitbay, Poloniex, Huobi, Hitbtc, Kucoin,Okex, Zb, Cex) 
 - #### 👟 **Sneaker** (Artwalk, Nike, Adidas) 
 
-- #### 👀 [**Show All**](https://github.com/Dkdaniz/Dkdaniz)
-

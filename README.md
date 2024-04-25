@@ -11,7 +11,7 @@
 - #### 🎨 **Mobile Native** (Android - Android Studio,  React Native)
 - #### 🎨 **Design** (Figma)
 - #### 🛠 **DevOps** (Actions Github, Digital Ocean, Hashicorp Vault, Google Cloud)
-- #### 🛠 **Packages and Libraries** (Ethers, HardHat, Alchemy)
+- #### 🛠 **Packages and Libraries** (Ethers, HardHat, Alchemy, Strapi)
 
 ### 🦾 **Automations**
 - #### 📈 **Exchanges** (Binance, Kraken, Liquid, Bitstamp Bigone, Crex24, Bitbay, Poloniex, Huobi, Hitbtc, Kucoin,Okex, Zb, Cex) 

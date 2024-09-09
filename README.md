@@ -6,8 +6,8 @@
 
 - #### 🔒 **Blockchain** (Bitcoin, Ethereum, Litecoin and HyperLedger)
 - #### 🔑 **Smart Contracts** (Solidity)
-- #### 💾 **Backend** (Nodejs, C#, C++, Java and Go)
-- #### 🎨 **Frontend** (Javascript, ReactJS, Electron)
+- #### 💾 **Backend** (Typescript, Javascript, C#, C++, Java and Go)
+- #### 🎨 **Frontend** (Typescript, Javascript, ReactJS, Electron)
 - #### 🎨 **Mobile Native** (Android - Android Studio,  React Native)
 - #### 🎨 **Design** (Figma)
 - #### 🛠 **DevOps** (Actions Github, Digital Ocean, Hashicorp Vault, Google Cloud)

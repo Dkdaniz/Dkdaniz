@@ -10,7 +10,7 @@
 - #### 🎨 **Frontend** (Typescript, Javascript, ReactJS, Electron)
 - #### 🎨 **Mobile Native** (Android - Android Studio,  React Native)
 - #### 🎨 **Design** (Figma)
-- #### 🛠 **DevOps** (Actions Github, Digital Ocean, Hashicorp Vault, Google Cloud)
+- #### 🛠 **DevOps** (Actions Github, AWS, Digital Ocean, Hashicorp Vault, Google Cloud)
 - #### 🛠 **Packages and Libraries** (Ethers, HardHat, Alchemy, Strapi)
 
 ### 🦾 **Automations**

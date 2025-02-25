@@ -16,6 +16,7 @@
 ### 🦾 **Automations**
 - #### 📈 **Exchanges** (Binance, Kraken, Liquid, Bitstamp Bigone, Crex24, Bitbay, Poloniex, Huobi, Hitbtc, Kucoin,Okex, Zb, Cex) 
 - #### 👟 **Sneaker** (Artwalk, Nike, Adidas)
+- #### 🤖 **Forex** (Metatrader 4, Metatrader 5)
 
 ### 📚 **Certifications**
 
